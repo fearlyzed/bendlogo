@@ -1,2 +1,0 @@
-# bendlogo
-bend yazilim logo
